@@ -7,14 +7,14 @@
 
 import Foundation
 
-struct Media: Codable {
-    let type: MediaType
-    let subtype: Subtype
-    let caption, copyright: String
-    let approvedForSyndication: Int
-    let mediaMetadata: [MediaMetadata]
+public struct Media: Codable {
+    public let type: MediaType
+    public let subtype: Subtype
+    public let caption, copyright: String
+    public let approvedForSyndication: Int
+    public let mediaMetadata: [MediaMetadata]
 
-    enum CodingKeys: String, CodingKey {
+    private enum CodingKeys: String, CodingKey {
         case type, subtype, caption, copyright
         case approvedForSyndication = "approved_for_syndication"
         case mediaMetadata = "media-metadata"

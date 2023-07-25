@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum ResultType: String, Codable {
+public enum ResultType: String, Codable {
     case article = "Article"
     case interactive = "Interactive"
 }

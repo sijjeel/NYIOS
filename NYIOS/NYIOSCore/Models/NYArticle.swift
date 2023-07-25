@@ -7,14 +7,18 @@
 
 import Foundation
 
-struct NYArticle: Codable {
-    let status, copyright: String
-    let numResults: Int
-    let results: [NYResult]
-
-    enum CodingKeys: String, CodingKey {
+public struct NYArticle: Codable {
+    public let status, copyright: String
+    public let numResults: Int
+    public let results: [NYResult]
+    
+    private enum CodingKeys: String, CodingKey {
         case status, copyright
         case numResults = "num_results"
         case results
+    }
+    
+    public static func empty() -> NYArticle {
+        NYArticle(status: "", copyright: "", numResults: 0, results: [])
     }
 }

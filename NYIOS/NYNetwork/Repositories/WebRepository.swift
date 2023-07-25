@@ -8,7 +8,7 @@
 import Foundation
 import Combine
 
-protocol WebRepository {
+public protocol WebRepository {
     var session: URLSession { get }
     var baseURL: String { get }
 }

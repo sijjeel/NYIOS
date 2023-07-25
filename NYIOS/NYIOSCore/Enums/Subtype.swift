@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum Subtype: String, Codable {
+public enum Subtype: String, Codable {
     case empty = ""
     case photo = "photo"
 }

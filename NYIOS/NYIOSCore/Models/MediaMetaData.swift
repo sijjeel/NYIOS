@@ -7,8 +7,8 @@
 
 import Foundation
 
-struct MediaMetadata: Codable {
-    let url: String
-    let format: Format
-    let height, width: Int
+public struct MediaMetadata: Codable {
+    public let url: String
+    public let format: Format
+    public let height, width: Int
 }
