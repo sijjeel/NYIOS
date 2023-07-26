@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import NYNetwork
 
 struct ArticleView: View {
     // MARK: Property
@@ -24,7 +23,10 @@ struct ArticleView: View {
                 } // :NavigationLink
             } // :List
             .onAppear {
-                viewModel.fetchNYArticles()
+                viewModel.fetchNYArticles(
+                    section: "all-sections",
+                    period: 7
+                )
             }
             .navigationTitle("Articles")
         } // :NavigationView

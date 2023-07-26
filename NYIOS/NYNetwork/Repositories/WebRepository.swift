@@ -14,6 +14,8 @@ public protocol WebRepository {
 }
 
 extension WebRepository {
+    /// Generic funcion to call the apis.
+    /// - Returns: Returns Publisher with either value or error.
     func call<Value>(endpoint: APICall, httpCodes: HTTPCodes = .success, decoder: JSONDecoder = JSONDecoder()) -> AnyPublisher<Value, Error>
         where Value: Decodable {
         do {

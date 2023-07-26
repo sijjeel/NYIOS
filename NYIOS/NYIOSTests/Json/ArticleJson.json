@@ -1,0 +1,1241 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/6963dbd6-b630-557f-bf71-654e8c697e86",
+            "url": "https://www.nytimes.com/2023/07/18/world/asia/north-korea-detained-american.html",
+            "id": 100000009000657,
+            "asset_id": 100000009000657,
+            "source": "New York Times",
+            "published_date": "2023-07-18",
+            "updated": "2023-07-19 14:56:12",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "Desertion (Military);Defectors (Political);United States Defense and Military Forces;United States International Relations;Political Prisoners;King, Travis T;North Korea;Panmunjom (South Korea);Korean Demilitarized Zone;South Korea",
+            "column": null,
+            "byline": "By Choe Sang-Hun, Michael D. Shear, John Ismay and Edward Wong",
+            "type": "Article",
+            "title": "North Korea Detains U.S. Soldier After Unauthorized Border Crossing",
+            "abstract": "The service member is the first known American to be held in North Korean custody since​ Bruce Byron Lowrance​ was detained for a month after illegally entering the country from China in 2018.​",
+            "des_facet": [
+                "Desertion (Military)",
+                "Defectors (Political)",
+                "United States Defense and Military Forces",
+                "United States International Relations",
+                "Political Prisoners"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "King, Travis T"
+            ],
+            "geo_facet": [
+                "North Korea",
+                "Panmunjom (South Korea)",
+                "Korean Demilitarized Zone",
+                "South Korea"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/4d91d1f3-ca5d-5a21-ac3f-d2737be7a7fd",
+            "url": "https://www.nytimes.com/interactive/2023/07/21/briefing/news-quiz-heat-gilgo-beach-trump.html",
+            "id": 100000009005379,
+            "asset_id": 100000009005379,
+            "source": "New York Times",
+            "published_date": "2023-07-21",
+            "updated": "2023-07-21 05:01:00",
+            "section": "Briefing",
+            "subsection": "",
+            "nytdsection": "briefing",
+            "adx_keywords": "Content Type: Quiz",
+            "column": null,
+            "byline": "",
+            "type": "Interactive",
+            "title": "The New York Times News Quiz, July 21, 2023",
+            "abstract": "Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.",
+            "des_facet": [
+                "Content Type: Quiz"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "Matt York/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/19-the-morning-heat-copy/19-the-morning-heat1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/19-the-morning-heat-copy/19-the-morning-heat-copy-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/19-the-morning-heat-copy/19-the-morning-heat-copy-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/28382dd4-511d-527a-898f-0c6d2b139661",
+            "url": "https://www.nytimes.com/interactive/2022/us/heat-wave-map-tracker.html",
+            "id": 100000008435335,
+            "asset_id": 100000008435335,
+            "source": "New York Times",
+            "published_date": "2022-07-12",
+            "updated": "2023-07-25 08:54:00",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Heat and Heat Waves;United States",
+            "column": null,
+            "byline": "By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz, Bea Malsky and John-Michael Murphy",
+            "type": "Interactive",
+            "title": "Tracking Dangerous Heat in the U.S.",
+            "abstract": "See detailed maps of the latest heat index forecasts in the United States.",
+            "des_facet": [
+                "Heat and Heat Waves"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/07/11/us/heat-wave-map-tracker-promo/heat-wave-map-tracker-promo-thumbStandard-v36.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/07/11/us/heat-wave-map-tracker-promo/heat-wave-map-tracker-promo-mediumThreeByTwo210-v36.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/07/11/us/heat-wave-map-tracker-promo/heat-wave-map-tracker-promo-mediumThreeByTwo440-v36.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ebc9bb5b-c8b6-5d9f-8433-26f3b7b4968c",
+            "url": "https://www.nytimes.com/2023/07/22/us/politics/ron-desantis-covid.html",
+            "id": 100000008999378,
+            "asset_id": 100000008999378,
+            "source": "New York Times",
+            "published_date": "2023-07-22",
+            "updated": "2023-07-24 11:51:12",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Coronavirus (2019-nCoV);Coronavirus Delta Variant;Vaccination and Immunization;Presidential Election of 2024;United States Politics and Government;Conservatism (US Politics);Coronavirus Reopenings;vis-video;DeSantis, Ron;Bhattacharya, Jay;Atlas, Scott W;Birx, Deborah L;Rivkees, Scott;Republican Party;Florida",
+            "column": null,
+            "byline": "By Sharon LaFraniere, Patricia Mazzei and Albert Sun",
+            "type": "Article",
+            "title": "The Steep Cost of Ron DeSantis’s Vaccine Turnabout",
+            "abstract": "Once a vaccine advocate, the Florida governor lost his enthusiasm for the shot before the Delta wave sent Covid hospitalizations and deaths soaring. It’s a grim chapter he now leaves out of his rosy retelling of his pandemic response.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Coronavirus Delta Variant",
+                "Vaccination and Immunization",
+                "Presidential Election of 2024",
+                "United States Politics and Government",
+                "Conservatism (US Politics)",
+                "Coronavirus Reopenings",
+                "vis-video"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "DeSantis, Ron",
+                "Bhattacharya, Jay",
+                "Atlas, Scott W",
+                "Birx, Deborah L",
+                "Rivkees, Scott"
+            ],
+            "geo_facet": [
+                "Florida"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gov. Ron DeSantis of Florida presents his Covid strategy not only as his biggest accomplishment, but as the foundation for his presidential campaign.",
+                    "copyright": "Joe Raedle/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/21/multimedia/00pol-desantis-covid-kvjb/00pol-desantis-covid-kvjb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/21/multimedia/00pol-desantis-covid-kvjb/00pol-desantis-covid-kvjb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/21/multimedia/00pol-desantis-covid-kvjb/00pol-desantis-covid-kvjb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c8b8005d-279a-5b21-8396-1d1977bb8bd1",
+            "url": "https://www.nytimes.com/2023/07/19/magazine/tomato-sandwich-recipe.html",
+            "id": 100000008991447,
+            "asset_id": 100000008991447,
+            "source": "New York Times",
+            "published_date": "2023-07-19",
+            "updated": "2023-07-22 22:22:09",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Tomatoes;Cooking and Cookbooks;Sandwiches;Recipes;Southern States (US)",
+            "column": null,
+            "byline": "By Eric Kim",
+            "type": "Article",
+            "title": "The Sandwich Southerners Wait for All Year",
+            "abstract": "A lush tomato, eaten in peak summer, is meant to be pined over.",
+            "des_facet": [
+                "Tomatoes",
+                "Cooking and Cookbooks",
+                "Sandwiches",
+                "Recipes"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Southern States (US)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/06/23/magazine/23mag-Eat/23mag-Eat-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/06/23/magazine/23mag-Eat/23mag-Eat-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/06/23/magazine/23mag-Eat/23mag-Eat-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/33524e16-cd9f-5b81-b1d6-e3d0be3662d3",
+            "url": "https://www.nytimes.com/2023/07/23/health/seniors-life-expectancy.html",
+            "id": 100000009001963,
+            "asset_id": 100000009001963,
+            "source": "New York Times",
+            "published_date": "2023-07-23",
+            "updated": "2023-07-24 23:39:30",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Longevity;Elderly;Content Type: Service;Tests (Medical);United States Preventive Services Task Force;United States",
+            "column": null,
+            "byline": "By Paula Span",
+            "type": "Article",
+            "title": "A Number That Should Guide Your Health Choices (It’s Not Your Age)",
+            "abstract": "Life expectancy increasingly figures into calculations about whether screenings and treatments are appropriate. Here’s how to find out yours.",
+            "des_facet": [
+                "Longevity",
+                "Elderly",
+                "Content Type: Service",
+                "Tests (Medical)"
+            ],
+            "org_facet": [
+                "United States Preventive Services Task Force"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "John P. Dessereau",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/25/science/25SCI-span-testing/25SCI-span-testing-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/25/science/25SCI-span-testing/25SCI-span-testing-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/25/science/25SCI-span-testing/25SCI-span-testing-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/846b5451-5fcb-5af0-bffd-002c4f49caff",
+            "url": "https://www.nytimes.com/interactive/2023/07/24/upshot/ivy-league-elite-college-admissions.html",
+            "id": 100000009007494,
+            "asset_id": 100000009007494,
+            "source": "New York Times",
+            "published_date": "2023-07-24",
+            "updated": "2023-07-25 06:36:32",
+            "section": "The Upshot",
+            "subsection": "",
+            "nytdsection": "the upshot",
+            "adx_keywords": "Colleges and Universities;Admissions Standards;Income Inequality;internal-sub-only-except-search;Chetty, Raj;Ivy League;Harvard University;Stanford University;Duke University;University of Chicago;Massachusetts Institute of Technology;Brown University;Cornell University;Dartmouth College;Princeton University;Yale University;University of Pennsylvania;Columbia University",
+            "column": null,
+            "byline": "By Aatish Bhatia, Claire Cain Miller and Josh Katz",
+            "type": "Interactive",
+            "title": "Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification",
+            "abstract": "Extraordinarily detailed data shows how elite colleges prefer the richest students, even among students with similar test scores.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Admissions Standards",
+                "Income Inequality",
+                "internal-sub-only-except-search"
+            ],
+            "org_facet": [
+                "Ivy League",
+                "Harvard University",
+                "Stanford University",
+                "Duke University",
+                "University of Chicago",
+                "Massachusetts Institute of Technology",
+                "Brown University",
+                "Cornell University",
+                "Dartmouth College",
+                "Princeton University",
+                "Yale University",
+                "University of Pennsylvania",
+                "Columbia University"
+            ],
+            "per_facet": [
+                "Chetty, Raj"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/multimedia/up-ivy-league-admissions-index/up-ivy-league-admissions-index-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/multimedia/up-ivy-league-admissions-index/up-ivy-league-admissions-index-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/multimedia/up-ivy-league-admissions-index/up-ivy-league-admissions-index-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8944a294-6adc-5ce0-9aa6-5376ff7152cb",
+            "url": "https://www.nytimes.com/2023/07/17/arts/design/shelby-white-the-met-antiquities-investigation.html",
+            "id": 100000008982657,
+            "asset_id": 100000008982657,
+            "source": "New York Times",
+            "published_date": "2023-07-17",
+            "updated": "2023-07-18 23:37:50",
+            "section": "Arts",
+            "subsection": "Art & Design",
+            "nytdsection": "arts",
+            "adx_keywords": "Arts and Antiquities Looting;Museums;Archaeology and Anthropology;internal-sub-only-except-search;audio-neutral-informative;audio-neutral-suspenseful;White, Shelby;Bogdanos, Matthew;Institute for the Study of the Ancient World;Metropolitan Museum of Art",
+            "column": null,
+            "byline": "By Graham Bowley and Tom Mashberg",
+            "type": "Article",
+            "title": "At the Met, She Holds Court. At Home, She Held 71 Looted Antiquities.",
+            "abstract": "Shelby White has given the museum generous gifts and 33 years of service as a trustee. But investigators recently seized many of her ancient artifacts, including 17 that were on loan to the Met.",
+            "des_facet": [
+                "Arts and Antiquities Looting",
+                "Museums",
+                "Archaeology and Anthropology",
+                "internal-sub-only-except-search",
+                "audio-neutral-informative",
+                "audio-neutral-suspenseful"
+            ],
+            "org_facet": [
+                "Institute for the Study of the Ancient World",
+                "Metropolitan Museum of Art"
+            ],
+            "per_facet": [
+                "White, Shelby",
+                "Bogdanos, Matthew"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shelby White last year at the Lod Mosaic Archaeological Center in Israel. The center, which houses the third-century Roman-era mosaic, is one of the many cultural projects around the world funded by White’s philanthropy.",
+                    "copyright": "Menahem Kahana/Agence France-Presse &mdash; Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/10trustee1-bjvg/10trustee1-bjvg-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/10trustee1-bjvg/10trustee1-bjvg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/10trustee1-bjvg/10trustee1-bjvg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5c04fa4a-9fbf-55f6-9411-c4b7650bb0d0",
+            "url": "https://www.nytimes.com/2023/07/22/style/quiet-luxury-wealth-status.html",
+            "id": 100000008940590,
+            "asset_id": 100000008940590,
+            "source": "New York Times",
+            "published_date": "2023-07-22",
+            "updated": "2023-07-24 17:11:51",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Luxury Goods and Services;High Net Worth Individuals",
+            "column": null,
+            "byline": "By Guy Trebay",
+            "type": "Article",
+            "title": "What’s the Status of Flaunting Your Status?",
+            "abstract": "In the world of the ultrawealthy, luxury is only quiet if you don’t know what to listen for.",
+            "des_facet": [
+                "Luxury Goods and Services",
+                "High Net Worth Individuals"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "If you’re rich, how should you show your stripes?",
+                    "copyright": "Illustration by Anna Bu Kliewer; source image by George Stubbs",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/fashion/23STATUS-cover/23STATUS-cover-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/fashion/23STATUS-cover/23STATUS-cover-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/fashion/23STATUS-cover/23STATUS-cover-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/08e12ef9-d411-5250-a250-8bf8c1759944",
+            "url": "https://www.nytimes.com/2023/07/20/magazine/family-genetics-frontotemporal-dementia.html",
+            "id": 100000008995764,
+            "asset_id": 100000008995764,
+            "source": "New York Times",
+            "published_date": "2023-07-20",
+            "updated": "2023-07-22 22:23:18",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Dementia;Genetics and Heredity;Families and Family Life;Rare and Orphan Diseases;internal-sub-only;Tests (Medical)",
+            "column": null,
+            "byline": "By Robert Kolker",
+            "type": "Article",
+            "title": "The Vanishing Family",
+            "abstract": "They all have a 50-50 chance of inheriting a cruel genetic mutation — which means disappearing into dementia in middle age. This is the story of what it’s like to live with those odds.",
+            "des_facet": [
+                "Dementia",
+                "Genetics and Heredity",
+                "Families and Family Life",
+                "Rare and Orphan Diseases",
+                "internal-sub-only",
+                "Tests (Medical)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Najeebah Al-Ghadban",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/magazine/23mag-Gene-1/23mag-Gene-1-thumbStandard-v7.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/magazine/23mag-Gene-1/23mag-Gene-1-mediumThreeByTwo210-v6.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/magazine/23mag-Gene-1/23mag-Gene-1-mediumThreeByTwo440-v6.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3f53511a-28c7-5c5e-9c5a-f3eb3798a955",
+            "url": "https://www.nytimes.com/2023/07/17/us/politics/trump-plans-2025.html",
+            "id": 100000008989108,
+            "asset_id": 100000008989108,
+            "source": "New York Times",
+            "published_date": "2023-07-17",
+            "updated": "2023-07-24 08:16:22",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2024;Presidents and Presidency (US);United States Politics and Government;Executive Orders and Memorandums;Government Employees;Presidential Transition (US);Regulation and Deregulation of Industry;Trump, Donald J;McEntee, John;Miller, Stephen (1985- );Kelly, John F (1950- );Roberts, Kevin D (1974- );Vought, Russell T;Heritage Foundation;House of Representatives;Senate;Federal Communications Commission;Federal Reserve System;Federal Trade Commission;Justice Department",
+            "column": null,
+            "byline": "By Jonathan Swan, Charlie Savage and Maggie Haberman",
+            "type": "Article",
+            "title": "Trump and Allies Forge Plans to Increase Presidential Power in 2025",
+            "abstract": "The former president and his backers aim to strengthen the power of the White House and limit the independence of federal agencies.",
+            "des_facet": [
+                "Presidential Election of 2024",
+                "Presidents and Presidency (US)",
+                "United States Politics and Government",
+                "Executive Orders and Memorandums",
+                "Government Employees",
+                "Presidential Transition (US)",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "Heritage Foundation",
+                "House of Representatives",
+                "Senate",
+                "Federal Communications Commission",
+                "Federal Reserve System",
+                "Federal Trade Commission",
+                "Justice Department"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "McEntee, John",
+                "Miller, Stephen (1985- )",
+                "Kelly, John F (1950- )",
+                "Roberts, Kevin D (1974- )",
+                "Vought, Russell T"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Donald J. Trump intends to bring independent regulatory agencies under direct presidential control.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/17/multimedia/17pol-trump-2025-lqpz/17pol-trump-2025-lqpz-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/17/multimedia/17pol-trump-2025-lqpz/17pol-trump-2025-lqpz-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/17/multimedia/17pol-trump-2025-lqpz/17pol-trump-2025-lqpz-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/47c3550d-e040-5bd9-a52f-f36c3d93a7f0",
+            "url": "https://www.nytimes.com/2023/07/19/us/stanford-president-resigns-tessier-lavigne.html",
+            "id": 100000008996852,
+            "asset_id": 100000008996852,
+            "source": "New York Times",
+            "published_date": "2023-07-19",
+            "updated": "2023-07-21 08:41:02",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Colleges and Universities;Ethics and Official Misconduct;Falsification of Data;Research;Alzheimer's Disease;Science and Technology;Academic and Scientific Journals;Appointments and Executive Changes;internal-sub-only-except-search;Tessier-Lavigne, Marc;Stanford University;Genentech Inc;Cell (Journal);Nature (Journal);Science (Journal)",
+            "column": null,
+            "byline": "By Stephanie Saul",
+            "type": "Article",
+            "title": "Stanford President Will Resign After Report Found Flaws in His Research",
+            "abstract": "Marc Tessier-Lavigne was cleared of accusations of scientific fraud and misconduct. But the review said his work had “multiple problems” and “fell below customary standards of scientific rigor.”",
+            "des_facet": [
+                "Colleges and Universities",
+                "Ethics and Official Misconduct",
+                "Falsification of Data",
+                "Research",
+                "Alzheimer's Disease",
+                "Science and Technology",
+                "Academic and Scientific Journals",
+                "Appointments and Executive Changes",
+                "internal-sub-only-except-search"
+            ],
+            "org_facet": [
+                "Stanford University",
+                "Genentech Inc",
+                "Cell (Journal)",
+                "Nature (Journal)",
+                "Science (Journal)"
+            ],
+            "per_facet": [
+                "Tessier-Lavigne, Marc"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marc Tessier-Lavigne, a noted scientist, announced he would resign as president of Stanford University.",
+                    "copyright": "Carolyn Fong for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/00NAT-REVIEW-1-hlqz/00NAT-REVIEW-1-hlqz-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/00NAT-REVIEW-1-hlqz/00NAT-REVIEW-1-hlqz-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/00NAT-REVIEW-1-hlqz/00NAT-REVIEW-1-hlqz-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/002ed537-bedd-59c8-a758-fe7c5c89b3a6",
+            "url": "https://www.nytimes.com/2023/07/22/us/pride-books-library-protest.html",
+            "id": 100000008992195,
+            "asset_id": 100000008992195,
+            "source": "New York Times",
+            "published_date": "2023-07-22",
+            "updated": "2023-07-25 13:23:32",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Libraries and Librarians;Philanthropy;LGBTQ Pride Month (US);Censorship;Book Bans;Homosexuality and Bisexuality;Discrimination;Conservatism (US Politics);Right-Wing Extremism and Alt-Right;internal-sub-only;San Diego (Calif)",
+            "column": null,
+            "byline": "By Jill Cowan",
+            "type": "Article",
+            "title": "They Checked Out Pride Books in Protest. It Backfired.",
+            "abstract": "Two San Diego residents cleared out the Pride month display at their library and said such materials shouldn’t be available to children, one of several recent clashes over L.G.B.T.Q. issues in California.",
+            "des_facet": [
+                "Libraries and Librarians",
+                "Philanthropy",
+                "LGBTQ Pride Month (US)",
+                "Censorship",
+                "Book Bans",
+                "Homosexuality and Bisexuality",
+                "Discrimination",
+                "Conservatism (US Politics)",
+                "Right-Wing Extremism and Alt-Right",
+                "internal-sub-only"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "San Diego (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Rancho Peñasquitos branch of the San Diego Public Library, where two women checked out nearly all of the books at a Pride display to prevent an L.G.B.T.Q. display during Pride month.",
+                    "copyright": "John Francis Peters for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/19/multimedia/19nat-california-library-1/fzwj-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/19/multimedia/19nat-california-library-1/fzwj-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/19/multimedia/19nat-california-library-1/fzwj-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ce615a16-49ee-53d1-acc1-577d8a28e596",
+            "url": "https://www.nytimes.com/2023/07/19/movies/oppenheimer-review-christopher-nolan.html",
+            "id": 100000008991180,
+            "asset_id": 100000008991180,
+            "source": "New York Times",
+            "published_date": "2023-07-19",
+            "updated": "2023-07-24 04:48:33",
+            "section": "Movies",
+            "subsection": "",
+            "nytdsection": "movies",
+            "adx_keywords": "Movies;audio-neutral-informative;audio-neutral-immersive;Nolan, Christopher;Murphy, Cillian",
+            "column": null,
+            "byline": "By Manohla Dargis",
+            "type": "Article",
+            "title": "‘Oppenheimer’ Review: A Man for Our Time",
+            "abstract": "Christopher Nolan’s complex, vivid portrait of J. Robert Oppenheimer, the “father of the atomic bomb,” is a brilliant achievement in formal and conceptual terms.",
+            "des_facet": [
+                "Movies",
+                "audio-neutral-informative",
+                "audio-neutral-immersive"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Nolan, Christopher",
+                "Murphy, Cillian"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In Christopher Nolan’s new film, “Oppenheimer,” Cillian Murphy stars as J. Robert Oppenheimer, the American physicist who oversaw the Manhattan Project in Los Alamos, N.M.",
+                    "copyright": "Universal Pictures",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/20/multimedia/20oppenheimer-review-vzjh/20oppenheimer-review-vzjh-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/20/multimedia/20oppenheimer-review-vzjh/20oppenheimer-review-vzjh-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/20/multimedia/20oppenheimer-review-vzjh/20oppenheimer-review-vzjh-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b24eea76-c4f6-5422-bfbd-908829de2bf6",
+            "url": "https://www.nytimes.com/2023/07/21/us/politics/trump-classified-documents-trial-date-cannon.html",
+            "id": 100000009006609,
+            "asset_id": 100000009006609,
+            "source": "New York Times",
+            "published_date": "2023-07-21",
+            "updated": "2023-07-22 10:35:51",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Federal Criminal Case Against Trump (Documents Case);Classified Information and State Secrets;Special Prosecutors (Independent Counsel);Presidential Election of 2024;United States Politics and Government;Trump, Donald J;Smith, Jack (Attorney);Cannon, Aileen M;Justice Department",
+            "column": null,
+            "byline": "By Alan Feuer",
+            "type": "Article",
+            "title": "Trial in Trump Documents Case Set for May 2024",
+            "abstract": "Judge Aileen M. Cannon rejected former President Donald J. Trump’s request to delay the trial until after the election but pushed the start date past the Justice Department’s request to begin in December.",
+            "des_facet": [
+                "Federal Criminal Case Against Trump (Documents Case)",
+                "Classified Information and State Secrets",
+                "Special Prosecutors (Independent Counsel)",
+                "Presidential Election of 2024",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Justice Department"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Smith, Jack (Attorney)",
+                "Cannon, Aileen M"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump speaking in Concord, N.H., in June.",
+                    "copyright": "John Tully for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21dc-documents-vcjq/21dc-documents-vcjq-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21dc-documents-vcjq/21dc-documents-vcjq-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21dc-documents-vcjq/21dc-documents-vcjq-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/aab04044-4942-5116-bc75-8c17f8ae3910",
+            "url": "https://www.nytimes.com/2023/07/21/us/texas-a-m-president-resigns.html",
+            "id": 100000009006705,
+            "asset_id": 100000009006705,
+            "source": "New York Times",
+            "published_date": "2023-07-21",
+            "updated": "2023-07-21 23:15:26",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Colleges and Universities;Appointments and Executive Changes;Journalism Schools;Banks, M Katherine;McElroy, Kathleen;Texas A&m University",
+            "column": null,
+            "byline": "By Nicholas Bogel-Burroughs and Remy Tumin",
+            "type": "Article",
+            "title": "Texas A&M President Resigns Amid Fallout Over Journalism Program",
+            "abstract": "The university said M. Katherine Banks would retire “immediately” after political pushback over the effort to appoint Kathleen McElroy to lead its journalism program.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Appointments and Executive Changes",
+                "Journalism Schools"
+            ],
+            "org_facet": [
+                "Texas A&m University"
+            ],
+            "per_facet": [
+                "Banks, M Katherine",
+                "McElroy, Kathleen"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Texas A&M’s president, M. Katherine Banks, submitted a letter of retirement late Thursday, the school said.",
+                    "copyright": "Texas A&M University",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/21/us/oakImage-1689951214394/oakImage-1689951214394-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/21/us/oakImage-1689951214394/oakImage-1689951214394-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/21/us/oakImage-1689951214394/oakImage-1689951214394-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/627a7b8e-f5c1-5d8a-bda7-2c09a4727189",
+            "url": "https://www.nytimes.com/2023/07/18/us/politics/michigan-attorney-general-charges-false-electors.html",
+            "id": 100000009001904,
+            "asset_id": 100000009001904,
+            "source": "New York Times",
+            "published_date": "2023-07-18",
+            "updated": "2023-07-23 15:57:04",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Voter Fraud (Election Fraud);Presidential Election of 2020;Electoral College;Politics and Government;United States Politics and Government;Nessel, Dana;Maddock, Meshawn;Trump, Donald J;Republican Party;Michigan",
+            "column": null,
+            "byline": "By Danny Hakim, Alexandra Berzon and Maggie Astor",
+            "type": "Article",
+            "title": "Michigan Charges 16 in False Elector Scheme to Overturn Trump’s 2020 Loss",
+            "abstract": "Among those facing felony charges was Meshawn Maddock, a Trump ally and a former co-chair of the Michigan Republican Party.",
+            "des_facet": [
+                "Voter Fraud (Election Fraud)",
+                "Presidential Election of 2020",
+                "Electoral College",
+                "Politics and Government",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Nessel, Dana",
+                "Maddock, Meshawn",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Michigan"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Meshawn Maddock, a former co-chair of the Michigan Republican Party, is facing charges related to the 2020 election.",
+                    "copyright": "Emily Elconin for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/18pol-michigan-wtlp/18pol-michigan-wtlp-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/18pol-michigan-wtlp/18pol-michigan-wtlp-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/18/multimedia/18pol-michigan-wtlp/18pol-michigan-wtlp-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d89636f7-202f-5593-89a1-8f5041a04b49",
+            "url": "https://www.nytimes.com/2023/07/24/us/obama-chef-drowned-paddleboard.html",
+            "id": 100000009010280,
+            "asset_id": 100000009010280,
+            "source": "New York Times",
+            "published_date": "2023-07-24",
+            "updated": "2023-07-25 10:56:10",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Chefs;Paddleboarding;Drownings;Deaths (Fatalities);Obama, Barack;Martha's Vineyard (Mass)",
+            "column": null,
+            "byline": "By Remy Tumin",
+            "type": "Article",
+            "title": "Obama Family Chef Dies While Paddleboarding on Martha’s Vineyard",
+            "abstract": "Tafari Campbell was a sous chef at the White House during the Obama administration and stayed on with the family when they moved to private life.",
+            "des_facet": [
+                "Chefs",
+                "Paddleboarding",
+                "Drownings",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Obama, Barack"
+            ],
+            "geo_facet": [
+                "Martha's Vineyard (Mass)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Emergency responders searching for Tafari Campbell on Monday morning after he disappeared while paddleboarding in Edgartown Great Pond.",
+                    "copyright": "Ray Ewing",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/24/multimedia/24xp-obama/24xp-obama-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/24/multimedia/24xp-obama/24xp-obama-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/24/multimedia/24xp-obama/24xp-obama-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/84c03e0a-86b2-5801-bcee-6f0158dbfa2e",
+            "url": "https://www.nytimes.com/2023/07/17/magazine/tom-cruise-mission-impossible-interview.html",
+            "id": 100000008995838,
+            "asset_id": 100000008995838,
+            "source": "New York Times",
+            "published_date": "2023-07-17",
+            "updated": "2023-07-23 15:59:44",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Actors and Actresses;Movies;Content Type: Personal Profile;internal-sub-only;Cruise, Tom;Pitt, Brad;England",
+            "column": null,
+            "byline": "By Caity Weaver",
+            "type": "Article",
+            "title": "My Impossible Mission to Find Tom Cruise",
+            "abstract": "The action star has gone to great lengths to avoid the press for more than a decade. But maybe our writer could track him down anyway?",
+            "des_facet": [
+                "Actors and Actresses",
+                "Movies",
+                "Content Type: Personal Profile",
+                "internal-sub-only"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Cruise, Tom",
+                "Pitt, Brad"
+            ],
+            "geo_facet": [
+                "England"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Kelsey Dake",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/magazine/23Mag-Cruise-Promo-1/23Mag-Cruise-Promo-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/magazine/23Mag-Cruise-Promo-1/23Mag-Cruise-Promo-1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/23/magazine/23Mag-Cruise-Promo-1/23Mag-Cruise-Promo-1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/368c3314-3d77-5fbe-8231-d2fecb1601ed",
+            "url": "https://www.nytimes.com/2023/07/22/us/kidnapped-girl-help-me-sign-texas-california.html",
+            "id": 100000009008071,
+            "asset_id": 100000009008071,
+            "source": "New York Times",
+            "published_date": "2023-07-22",
+            "updated": "2023-07-23 11:21:50",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Kidnapping and Hostages;Sex Crimes;Child Abuse and Neglect;Sablan, Steven Robert;Long Beach (Calif);San Antonio (Tex)",
+            "column": null,
+            "byline": "By Rebecca Carballo",
+            "type": "Article",
+            "title": "Kidnapped Girl’s ‘Help Me!’ Sign Leads to Her Rescue",
+            "abstract": "A passer-by saw the girl’s sign at a parking lot in Long Beach, Calif., after a 61-year-old man had taken her from Texas days earlier, officials said.",
+            "des_facet": [
+                "Kidnapping and Hostages",
+                "Sex Crimes",
+                "Child Abuse and Neglect"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Sablan, Steven Robert"
+            ],
+            "geo_facet": [
+                "Long Beach (Calif)",
+                "San Antonio (Tex)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A sign that a 13-year-old girl used at a parking lot in California to signal that she had been abducted.",
+                    "copyright": "U.S. Department of Justice, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/22/multimedia/22xp-sign-gmwv/22xp-sign-gmwv-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/22/multimedia/22xp-sign-gmwv/22xp-sign-gmwv-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/22/multimedia/22xp-sign-gmwv/22xp-sign-gmwv-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

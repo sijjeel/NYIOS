@@ -15,11 +15,15 @@ protocol APICall {
 }
 
 extension APICall {
+    
+    /// Create a api request by appending path with base url to get the complete url.
+    /// - Parameter baseURL: base url of our api.
+    /// - Returns: return URLRequest.
     func urlRequest(baseURL: String) throws -> URLRequest {
         guard let url = URL(string: baseURL + path) else {
             throw APIError.invalidURL
         }
-        print(url)
+
         var request = URLRequest(url: url)
         request.httpMethod = method.rawValue
         request.allHTTPHeaderFields = headers

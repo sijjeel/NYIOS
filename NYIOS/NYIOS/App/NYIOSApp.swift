@@ -20,7 +20,7 @@ struct NYIOSApp: App {
         ArticleViewModel(
             articleRepository: DefNYArticleRepository(
                 session: configuredURLSession(),
-                baseURL: "http://api.nytimes.com"
+                baseURL: Constants.baseUrl
             )
         )
     }

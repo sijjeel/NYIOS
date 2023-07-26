@@ -11,20 +11,24 @@ import Combine
 import NYIOSCore
 
 final class ArticleViewModel: ObservableObject {
+    // MARK: Properties
     private let articleRepository: NYArticleRepository
     private var cancelBag = CancelBag()
     
     @Published var article: NYArticle = NYArticle.empty()
     
+    // MARK: Initializer
     init(articleRepository: NYArticleRepository) {
         self.articleRepository = articleRepository
     }
     
-    func fetchNYArticles() {
+    // MARK: Functions
+    /// Fetch the most popular articles from api.
+    func fetchNYArticles(section: String, period: Int) {
         articleRepository.fetchArticles(
-            section: "all-sections",
-            period: 7,
-            apiKey: "23E6G948xA5MIB1xOvLtVCWbNKGjmWSa"
+            section: section,
+            period: period,
+            apiKey: Constants.apiKey
         )
             .receive(on: DispatchQueue.main)
             .sink (receiveCompletion: { result in
