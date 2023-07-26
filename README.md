@@ -34,7 +34,7 @@ This app displays a list of Articles from NY Times api.
 
 ## Code Coverage:
 
-* NYIOS: 89%
+* NYIOS: 88.4%
 * NYNetwork: 79.8%
 * NYIOSCore: 100%
 

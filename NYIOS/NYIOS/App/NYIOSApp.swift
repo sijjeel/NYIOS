@@ -6,33 +6,12 @@
 //
 
 import SwiftUI
-import NYNetwork
 
 @main
 struct NYIOSApp: App {
     var body: some Scene {
         WindowGroup {
-            ArticleView(viewModel: createArticleViewModel())
+            ArticleView(viewModel: AppEnvironment.createArticleViewModel())
         }
-    }
-    
-    private func createArticleViewModel() -> ArticleViewModel {
-        ArticleViewModel(
-            articleRepository: DefNYArticleRepository(
-                session: configuredURLSession(),
-                baseURL: Constants.baseUrl
-            )
-        )
-    }
-    
-    private func configuredURLSession() -> URLSession {
-        let configuration = URLSessionConfiguration.default
-        configuration.timeoutIntervalForRequest = 20 * 60
-        configuration.timeoutIntervalForResource = 20 * 60
-        configuration.waitsForConnectivity = true
-        configuration.httpMaximumConnectionsPerHost = 5
-        configuration.requestCachePolicy = .reloadIgnoringLocalCacheData
-        configuration.urlCache = .shared
-        return URLSession(configuration: configuration)
     }
 }
